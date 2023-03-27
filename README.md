@@ -5,5 +5,7 @@ Resolvendo Problemas no GIT
 
 * Mercurial
 * Git
+* GitLab
 * Subversion
 * CVS
+conflito resolvido
